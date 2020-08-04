@@ -1,6 +1,11 @@
 # DataSet
 
-Most of the test are based on kaggle open dataset, like titanic. Dataset could be found in `/test/dataset`.
+## Usage
+```bash
+npm i --save-dev @kanaries/dataset
+```
+
+Most of the test are based on kaggle open dataset, like titanic.
 
 ## Titanic
 
