@@ -1,0 +1,14 @@
+{
+  "name": "@kanaries/dataset",
+  "version": "1.0.0",
+  "description": "collection of datasets for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dataset"
+  ],
+  "author": "ObservedObserver",
+  "license": "MIT"
+}
